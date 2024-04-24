@@ -13,7 +13,6 @@ const Usuarios = () => {
   const [usuarios, setUsuarios] = useState([]);
   const navigate = useNavigate()
 
-  //useEffect: É usado em duas situações, 1ª quando a minha aplicação inicia e 2ª quando um estado dentro do meu array[] de dependência é alterado
   useEffect(() => {
     async function buscarUsuarios() {
       const { data: novos_usuarios } = await axios.get("http://localhost:3001/usuarios")
