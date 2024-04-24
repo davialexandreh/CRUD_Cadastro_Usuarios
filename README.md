@@ -1,10 +1,10 @@
 # 🌐 CRUD - Gerenciamento de Usuários 🚀
 
-Este é um projeto de aplicação CRUD (Create, Read, Update, Delete) para o cadastro de usuários. A aplicação foi desenvolvida utilizando React para o front-end e Node.js para o back-end.
+Este é um projeto de aplicação CRUD (Create, Read, Update, Delete) para o gerenciamento de usuários. A aplicação foi desenvolvida utilizando React para o front-end e Node.js para o back-end.
 
 ## Tecnologias Utilizadas
 
-### Back-end
+### Back-end:
 - **Node.js**: Ambiente de execução do JavaScript no servidor.
 - **Express**: Framework para construir a API.
 - **Axios**: Usado para fazer solicitações HTTP do Node.js ao React.
@@ -15,5 +15,5 @@ Este é um projeto de aplicação CRUD (Create, Read, Update, Delete) para o cad
 
 ### Front-end
 - **React**: Biblioteca JavaScript para construir a interface do usuário.
-- **Styled Components**: Usado para escrever CSS em JavaScript para estilizar nossos componentes.
-- **React Router Dom**: Usado para a navegação entre as páginas da nossa aplicação.
+- **Styled Components**: Usado para escrever CSS em JavaScript para estilizar os componentes.
+- **React Router Dom**: Usado para a navegação entre as páginas da aplicação.
