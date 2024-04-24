@@ -1,5 +1,6 @@
 # 🌐 CRUD - Gerenciamento de Usuários 🚀
 
+Olá, seja bem vindo(a)!
 Este é um projeto de aplicação CRUD (Create, Read, Update, Delete) para o gerenciamento de usuários. A aplicação foi desenvolvida utilizando React para o front-end e Node.js para o back-end.
 
 ## Tecnologias Utilizadas
