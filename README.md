@@ -1,4 +1,4 @@
-# 🌐 Gerenciamento de Usuários 🚀
+# Gerenciamento de Usuários 👨🏽‍💻
 
 Olá, seja bem vindo(a)!
 Este é um projeto de aplicação para o gerenciamento de usuários. A aplicação foi desenvolvida utilizando React para o front-end e Node.js para o back-end.
