@@ -9,7 +9,7 @@ Este é um projeto de aplicação para o gerenciamento de usuários. A aplicaç�
 - **Node.js**: Ambiente de execução do JavaScript no servidor.
 - **Express**: Framework para construir a API.
 - **Axios**: Usado para fazer solicitações HTTP do Node.js ao React.
-- **Cors**: Middleware usado para habilitar CORS na nossa API.
+- **Cors**: Middleware usado para habilitar CORS na API.
 - **UUID**: Usado para a criação de IDs únicos para nossos usuários.
 - **Nodemon**: Usado durante o desenvolvimento para reiniciar automaticamente o servidor sempre que houver uma alteração de arquivo.
 - **Yarn**: Gerenciador de pacotes.
